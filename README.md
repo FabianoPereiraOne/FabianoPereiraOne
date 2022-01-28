@@ -8,7 +8,7 @@
 <h3>Foco:</h3>
 <p>Meu foco é em melhorar a entrega dos Websites e Sistemas deixando-os mais modernos, seguros e responsivos.</p>
 
-<h3>Tecnologias utilizadas:</h3>
+<h3>Minhas Skills</h3>
 <div>
   <img href="#" align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
