@@ -1,7 +1,7 @@
 <h1>Olá eu sou Fabiano Pereira 🖐️</h1>
 <br/>
 <h3>Sobre mim:</h3>
-<p>Sou Fabiano Pereira, trabalho como Developer Front End, meu diferencial é que sou esforçado e atento ao que me foi proposto, tenho experiencia na criação de Landing Pages, Dashboards, Websites e Sistemas intermediários, bastante solicitados por afiliados de hotmart, eduzz e monetizze.</p>
+<p>Sou desenvolvedor front-end a mais de 2 anos, tenho experiência na criação de landing pages, dashboards, websites e sistemas intermediários, sempre focado no objetivo, empenhado em estudar programação e em evoluir cada dia.</p>
 
 <h3>Objetivo atual:</h3>
 <p>Alavancar minha carreira como dev.</p>
