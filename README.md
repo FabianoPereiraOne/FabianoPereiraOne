@@ -1,6 +1,6 @@
 <h1>Olá eu sou Fabiano Pereira 🖐️</h1>
 <h3>Sobre mim:</h3>
-<p>Sou desenvolvedor front-end a mais de 2 anos, tenho experiência na criação de landing pages, dashboards, websites e sistemas intermediários, sempre focado no objetivo, empenhado em estudar programação e em evoluir cada dia.</p>
+<p>Sou desenvolvedor front-end a mais de 2 anos, tenho experiência na criação de landing pages, dashboards, websites e sistemas intermediários, sempre empenhado em entregar um site/sistema de qualidade. Gosto de estudar programação e sigo evoluindo cada dia como um profissional que contribui para o crescimento da Web.</p>
 
 <h3>Objetivo atual:</h3>
 <p>Alavancar minha carreira como dev.</p>
