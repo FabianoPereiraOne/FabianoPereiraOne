@@ -1,11 +1,17 @@
 <h1>Olá eu sou Fabiano Pereira 🖐️</h1>
-<p>"<i>A arte de programar consiste em organizar e dominar a complexidade.</i>"</p>
+<br/>
+<h3>Sobre mim:</h3>
+<p>Sou Fabiano Pereira, trabalho como Developer Front End, meu diferencial é que sou esforçado e atento ao que me foi proposto, tenho experiencia na criação de Landing Pages, Dashboards, Websites e Sistemas intermediários, bastante solicitados por afiliados de hotmart, eduzz e monetizze.</p>
 
-<br/>
-<br/>
+<h3>Objetivo atual:</h3>
+<p>Alavancar minha carreira como dev.</p>
+
+<h3>Foco:</h3>
+<p>Meu foco é em melhorar a entrega dos Websites e Sistemas deixando-os mais modernos, seguros e responsivos.</p>
+
 <h3>Tecnologias utilizadas:</h3>
 <div>
-  <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img href="#" align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="react js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
