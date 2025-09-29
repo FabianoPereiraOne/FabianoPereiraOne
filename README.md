@@ -3,10 +3,14 @@
 <p>Apaixonado por tecnologia desde os 12 anos, atuo há 5 anos como Desenvolvedor Front-End, com foco em React e no ecossistema JavaScript. Tenho experiência com metodologias ágeis, testes de performance e segurança, além de contribuições em projetos sociais. Atualmente trabalho com Next.js, Node.js, TypeScript e Prisma, sempre buscando evoluir em UI/UX, Testes e Acessibilidade.</p>
 
 <h3>Objetivo atual:</h3>
-<p>Alavancar minha carreira como dev.</p>
+<p>
+Alavancar minha carreira como desenvolvedor, expandindo minhas habilidades e participando de projetos desafiadores e de impacto.
+</p>
 
 <h3>Foco:</h3>
-<p>Meu foco é em melhorar a entrega dos Websites e Sistemas deixando-os mais modernos, seguros e responsivos.</p>
+<p>
+Meu foco é aprimorar a entrega de Websites e Sistemas, tornando-os mais modernos, seguros, acessíveis e responsivos.
+</p>
 
 <h3>Minhas Skills</h3>
 <div>
