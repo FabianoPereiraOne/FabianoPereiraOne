@@ -2,16 +2,6 @@
 <h3>Sobre mim:</h3>
 <p>Apaixonado por tecnologia desde os 12 anos, atuo há 5 anos como Desenvolvedor Front-End, com foco em React e no ecossistema JavaScript. Tenho experiência com metodologias ágeis, testes de performance e segurança, além de contribuições em projetos sociais. Atualmente trabalho com Next.js, Node.js, TypeScript e Prisma, sempre buscando evoluir em UI/UX, Testes e Acessibilidade.</p>
 
-<h3>Objetivo atual:</h3>
-<p>
-Alavancar minha carreira como desenvolvedor, expandindo minhas habilidades e participando de projetos desafiadores e de impacto.
-</p>
-
-<h3>Foco:</h3>
-<p>
-Meu foco é aprimorar a entrega de Websites e Sistemas, tornando-os mais modernos, seguros, acessíveis e responsivos.
-</p>
-
 <h3>Principais Habilidades</h3>
 <div>
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
