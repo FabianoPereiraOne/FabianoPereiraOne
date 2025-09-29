@@ -1,6 +1,6 @@
 <h1>Olá eu sou Fabiano Pereira 🖐️</h1>
 <h3>Sobre mim:</h3>
-<p>Sou desenvolvedor front-end a mais de 2 anos, tenho experiência na criação de landing pages, dashboards, websites e sistemas intermediários, sempre empenhado em entregar um site/sistema de qualidade. Gosto de estudar programação e sigo evoluindo cada dia como um profissional que contribui para o crescimento da Web.</p>
+<p>Apaixonado por tecnologia desde os 12 anos, atuo há 5 anos como Desenvolvedor Front-End, com foco em React e no ecossistema JavaScript. Tenho experiência com metodologias ágeis, testes de performance e segurança, além de contribuições em projetos sociais. Atualmente trabalho com Next.js, Node.js, TypeScript e Prisma, sempre buscando evoluir em UI/UX, Testes e Acessibilidade.</p>
 
 <h3>Objetivo atual:</h3>
 <p>Alavancar minha carreira como dev.</p>
