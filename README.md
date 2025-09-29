@@ -1,4 +1,4 @@
-<h1 align="center">Olá eu sou Fabiano Pereira 🖐️</h1>
+<h1 align="center">Olá, eu sou Fabiano Pereira 🖐️</h1>
 <h3>Sobre mim:</h3>
 <p>Apaixonado por tecnologia desde os 12 anos, atuo há 5 anos como Desenvolvedor Front-End, com foco em React e no ecossistema JavaScript. Tenho experiência com metodologias ágeis, testes de performance e segurança, além de contribuições em projetos sociais. Atualmente trabalho com Next.js, Node.js, TypeScript e Prisma, sempre buscando evoluir em UI/UX, Testes e Acessibilidade.</p>
 
