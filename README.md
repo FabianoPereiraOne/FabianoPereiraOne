@@ -23,7 +23,6 @@ Meu foco é aprimorar a entrega de Websites e Sistemas, tornando-os mais moderno
   <img align="center" alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img align="center" alt="Shadcn UI" src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
-  <img align="center" alt="bootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 <br/>
 <h3>Redes sociais</h3>
